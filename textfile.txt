@@ -1,0 +1,4 @@
+Hey! This is what I have inside my textfile.txt
+Here are some numbers: 0123456789
+Here are some special characters: !@#$%^&*()
+Goodbye!
